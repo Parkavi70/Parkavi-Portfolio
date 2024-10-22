@@ -1,11 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
-
 function App() {
   return (
     <div className="App">
-    <center>
-        <h1>PARKAVI M</h1>
+    <h1>PARKAVI M</h1>
         <h3>WEB DEVELOPER</h3>
         <hr></hr>  
 
@@ -13,17 +10,11 @@ function App() {
         <h5>parkavicse22@gmail.com</h5>
         <h5>7305423502</h5>
         <hr></hr>
-    </center>
-
-    <center>
         <h3>PROFILE</h3>
         <p>
          I am qualified amd professonal web developer strong creative and analytical skills. team player with an eye for details.seeking for an entry level opportuniies with an eseteemed organisation where i can utilise nmy skills and enhance learning in the field of work.
         </p>
-        <hr></hr>
-    </center>
-         
-        <center> 
+        <hr></hr> 
             <h3>TECHNICAL SKILLS</h3>
         <ul>
             <li> html</li>
@@ -52,7 +43,6 @@ function App() {
             <h4> Full stack development</h4>
             <h5> Novitech Coimbatore</h5>
         </p>
-        </center>
     </div>
   );
 }
